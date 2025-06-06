@@ -1,0 +1,121 @@
+-- 1. Таблица поставщиков
+CREATE TABLE suppliers (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL UNIQUE,
+    contact_info TEXT
+);
+
+-- 2. Таблица товаров
+CREATE TABLE products (
+    id SERIAL PRIMARY KEY,
+    name VARCHAR(255) NOT NULL,
+    description TEXT,
+    price NUMERIC(10, 2) NOT NULL CHECK (price >= 0)
+);
+
+-- 3. Накладные
+CREATE TABLE invoices (
+    id SERIAL PRIMARY KEY,
+    supplier_id INT NOT NULL REFERENCES suppliers(id),
+    invoice_date DATE NOT NULL DEFAULT CURRENT_DATE,
+    due_date DATE NOT NULL,
+    total_amount NUMERIC(12, 2) NOT NULL CHECK (total_amount >= 0),
+    is_paid BOOLEAN NOT NULL DEFAULT FALSE
+);
+
+-- 4. Строки накладных
+CREATE TABLE invoice_items (
+    id SERIAL PRIMARY KEY,
+    invoice_id INT NOT NULL REFERENCES invoices(id) ON DELETE CASCADE,
+    product_id INT NOT NULL REFERENCES products(id),
+    quantity INT NOT NULL CHECK (quantity > 0),
+    unit_price NUMERIC(10, 2) NOT NULL CHECK (unit_price >= 0),
+    subtotal NUMERIC(12, 2) NOT NULL CHECK (subtotal >= 0),
+    paid BOOLEAN NOT NULL DEFAULT FALSE
+);
+
+-- 5. Платежи
+CREATE TABLE payments (
+    id SERIAL PRIMARY KEY,
+    invoice_id INT NOT NULL REFERENCES invoices(id),
+    invoice_item_id INT NOT NULL REFERENCES invoice_items(id),
+    amount NUMERIC(12, 2) NOT NULL CHECK (amount > 0),
+    payment_date DATE NOT NULL DEFAULT CURRENT_DATE
+);
+
+
+-- Функция для обновления статусов оплаты
+CREATE OR REPLACE FUNCTION update_payment_status()
+RETURNS TRIGGER AS $$
+DECLARE
+    item RECORD;
+    invoice_id_val INT;
+    total_paid NUMERIC(12, 2);
+    item_subtotal NUMERIC(12, 2);
+    all_items_paid BOOLEAN;
+BEGIN
+    -- Получаем данные о позиции накладной
+    SELECT invoice_id, subtotal 
+    INTO invoice_id_val, item_subtotal
+    FROM invoice_items 
+    WHERE id = NEW.invoice_item_id;
+
+    -- Проверяем полную оплату позиции
+    SELECT COALESCE(SUM(amount), 0) INTO total_paid
+    FROM payments 
+    WHERE invoice_item_id = NEW.invoice_item_id;
+
+    -- Обновляем статус оплаты позиции
+    IF total_paid >= item_subtotal THEN
+        UPDATE invoice_items 
+        SET paid = TRUE 
+        WHERE id = NEW.invoice_item_id;
+    ELSE
+        UPDATE invoice_items 
+        SET paid = FALSE 
+        WHERE id = NEW.invoice_item_id;
+    END IF;
+
+    -- Проверяем оплату всех позиций накладной
+    SELECT NOT EXISTS (
+        SELECT 1 
+        FROM invoice_items 
+        WHERE 
+            invoice_id = invoice_id_val 
+            AND paid = FALSE
+    ) INTO all_items_paid;
+
+    -- Обновляем статус накладной
+    UPDATE invoices 
+    SET is_paid = all_items_paid 
+    WHERE id = invoice_id_val;
+
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+-- Триггер для обработки платежей
+CREATE TRIGGER payment_after_insert
+AFTER INSERT ON payments
+FOR EACH ROW
+EXECUTE FUNCTION update_payment_status();
+INSERT INTO suppliers (name, contact_info) VALUES
+('КубаньМясоПром', 'Адрес: г. Краснодар, ул. Мясная, д. 5'),
+('Сочинский фермер', 'Тел: +7 (988) 123-45-67'),
+('АПК "Южный край"', 'Email: apk-yug@mail.ru'),
+('Фермерское подворье Кавказ', 'г. Армавир, ул. Сельская, д. 10'),
+('ООО "Краснодархолод"', 'Тел: +7 (861) 222-33-44'),
+('ЗАО "Ейскмясопродукт"', 'Email: eijsk@meatmail.ru');
+
+INSERT INTO products (name, description, price) VALUES
+('Сосиски куринные "Сашка"', 'Сосиски из отборного куриного мяса', 120.50),
+('Сосиски докторские', 'Традиционные докторские сосиски', 110.00),
+('Сосиски детские', 'Без добавок, для детей', 130.00),
+('Колбаса сырокопченая', 'Домашнего производства, из свинины', 250.00),
+('Ветчина нарезная', 'Упаковка 100 грамм', 180.00),
+('Шашлык охлажденный (курица)', 'Порция 500 грамм', 220.00),
+('Шашлык охлажденный (свинина)', 'Порция 500 грамм', 260.00),
+('Сало с чесноком', 'С пряностями, весовое', 300.00),
+('Паштет домашний', 'В банке 200 грамм', 90.00),
+('Гречневая каша готовая', 'В пластиковых контейнерах', 60.00);
+-- 1. Удаляем старые объекты, если они были

@@ -1,0 +1,185 @@
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\OLT.Extensions.EPPlus.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kadr8\Desktop\SoftWareAPP\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\OLT.Extensions.EPPlus.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\kadr8\Desktop\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\OLT.Extensions.EPPlus.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\лил влудик\Desktop\SoftWareAPP\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\OLT.Extensions.EPPlus.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\kadr8\Desktop\АртемС#\АртемС#\АртемС#\АртемС#\Доп\Доп\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\EPPlus.System.Drawing.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\OLT.Extensions.EPPlus.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\bin\Debug\net8.0-windows\WinForms.DataVisualization.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\kadr8\Desktop\давивид\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
